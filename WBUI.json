@@ -38,7 +38,7 @@
           "layout": 1,
           "buttontext": "Commands Available To Use",
           "title1": "Commands",
-          "text1": "/shop [Brings Up Shop UI]\n/lottery\n/lottery [Enters The Lottery]\n/kit [Shows All Available Kits]\n/trade ['CharacterName' Amount Sends points to other player]\n/setorp Name [sets orp to current player location]\n/setorp id name  [replaces ORP <id> with current location]\n/listorp [Gives list of current ORPs]\n/removeorp name [Removes Orp With name]\n/orp [will give message saying if you are inside your own ORP or not. And give ORP info of target]       ",
+          "text1": "/shop [Brings Up Shop UI]\n/lottery [Enters The Lottery]\n/kit [Shows All Available Kits]\n/trade ['CharacterName' Amount Sends points to other player]\n/setorp Name [sets orp to current player location]\n/setorp id name  [replaces ORP <id> with current location]\n/listorp [Gives list of current ORPs]\n/removeorp name [Removes Orp With name]\n/orp [will give message saying if you are inside your own ORP or not. And give ORP info of target]       ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
