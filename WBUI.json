@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Server Settings",
-          "text1": "Max Player Level = 105\nMax Wild Dino Level = 150\nUnlimited Mindwipe Respecs = True\n\nTribe Tame Limit = 600\nTribemate Imprints = True\n\nDiseases = True\nAlliance System = False\nCustom Recipes = True\nCorpse Locater = True\nConsole Gamma = True\nNo Collision Building = True\nShow Floating Damage = True\nArtifact Cave Building Allowed",
+          "text1": "Max Player Level = 115\nMax Wild Dino Level = 150\nUnlimited Mindwipe Respecs = True\n\nTribe Tame Limit = 600\nTribemate Imprints = True\n\nDiseases = True\nAlliance System = False\nCustom Recipes = True\nCorpse Locater = True\nConsole Gamma = True\nNo Collision Building = True\nShow Floating Damage = False\nArtifact Cave Building Allowed",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
@@ -27,7 +27,7 @@
           "layout": 2,
           "buttontext": "Server Rates",
           "title1": "Rates:",
-          "text1": "Harvesting = 10\nTaming = 10\nBreeding = 15\nMaturation = 15\nBreeding = 15\nMating Interval = 0.3\nBaby Imprint Interval = 0.1\nCrop Growth = 5.0\nCave Damage = 6.0\nPlayer Food/Water Consumption = 0.5\nBreeding = 15\nLoot Quality = 1.2\nPlayerFortitudePerLevelStatsMultiplier = 2.0\nSaddle Armour Clamp = 124%/99.2%\nWeapon Damage Clamp = 298%",
+          "text1": "Harvesting = 5\nTaming = 5\nBreeding = 15\nMaturation = 15\nBreeding = 15\nMating Interval = 0.1\nBaby Imprint Interval = 0.1\nCrop Growth = 5.0\nCave Damage = 6.0\nPlayer Food/Water Consumption = 0.5\nBreeding = 15\nLoot Quality = 1.2\nPlayerFortitudePerLevelStatsMultiplier = 2.0\nSaddle Armour Clamp = 124%/99.2%\nWeapon Damage Clamp = 298%",
           "title2": "Offline Settings:",
           "text2": "Offline Structure Resistance = 0.5\nOffline Turret Damage = 2.0\nORP Range = 50 Foundations\nORP Quantity = 2 Max\nActivation Timer = 30 Mins after logging offline, + 60 minutes if in recent PvP ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -38,7 +38,7 @@
           "layout": 1,
           "buttontext": "Commands Available To Use",
           "title1": "Commands",
-          "text1": "/shop [Brings Up Shop UI]\n/lottery [Enters The Lottery]\n/kit [Shows All Available Kits]\n/trade ['CharacterName' Amount Sends points to other player]\n/setorp Name [sets orp to current player location]\n/setorp id name  [replaces ORP <id> with current location]\n/listorp [Gives list of current ORPs]\n/removeorp name [Removes Orp With name]\n/orp [will give message saying if you are inside your own ORP or not. And give ORP info of target]\n/farm [activates solo auto farm for anky and doed]      ",
+          "text1": "/shop [Brings Up Shop UI]\n/kit [Shows All Available Kits]\n/trade ['CharacterName' Amount Sends points to other player]\n/setorp Name [sets orp to current player location]\n/setorp id name  [replaces ORP <id> with current location]\n/listorp [Gives list of current ORPs]\n/removeorp name [Removes Orp With name]\n/orp [will give message saying if you are inside your own ORP or not. And give ORP info of target]\n/farm [activates solo auto farm for anky and doed]      ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
