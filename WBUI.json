@@ -27,7 +27,7 @@
           "layout": 2,
           "buttontext": "Server Rates",
           "title1": "Rates:",
-          "text1": "Harvesting = 5\nTaming = 5\nBreeding = 15\nMaturation = 15\nBreeding = 15\nMating Interval = 0.1\nBaby Imprint Interval = 0.1\nCrop Growth = 5.0\nCave Damage = 6.0\nPlayer Food/Water Consumption = 0.5\nBreeding = 15\nLoot Quality = 1.2\nPlayerFortitudePerLevelStatsMultiplier = 2.0\nSaddle Armour Clamp = 124%/99.2%\nWeapon Damage Clamp = 298%",
+          "text1": "Harvesting = 5\nTaming = 5\nBreeding = 20\nMaturation = 20\nEggHatchSpeed = 30\nMating Interval = 0.1\nBaby Imprint Interval = 0.1\nCrop Growth = 6.0\nCave Damage = 6.0\nPlayer Food/Water Consumption = 0.5\nExperience = 5\nLoot Quality = 1.2\nPlayerFortitudePerLevelStatsMultiplier = 2.0\nSaddle Armour Clamp = 124%/99.2%\nWeapon Damage Clamp = 298%",
           "title2": "Offline Settings:",
           "text2": "Offline Structure Resistance = 0.5\nOffline Turret Damage = 2.0\nORP Range = 50 Foundations\nORP Quantity = 2 Max\nActivation Timer = 30 Mins after logging offline, + 60 minutes if in recent PvP ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
