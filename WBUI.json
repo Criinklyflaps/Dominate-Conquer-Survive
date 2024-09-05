@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Server Settings",
-          "text1": "Max Player Level = 115\nMax Wild Dino Level = 150\nUnlimited Mindwipe Respecs = True\n\nTribe Tame Limit = 600\n\nTribe Limit = 4\nTribemate Imprints = True\n\nDiseases = True\nAlliance System = False\nCustom Recipes = True\nCorpse Locater = True\nConsole Gamma = True\nNo Collision Building = True\nShow Floating Damage = False\nArtifact Cave Building Allowed",
+          "text1": "Max Player Level = 115\nMax Wild Dino Level = 150\nUnlimited Mindwipe Respecs = True\nTribe Tame Limit = 600\nTribe Limit = 4\nTribemate Imprints = True\n\nDiseases = True\nAlliance System = False\nCustom Recipes = True\nCorpse Locater = True\nConsole Gamma = True\nNo Collision Building = True\nShow Floating Damage = False\nArtifact Cave Building Allowed",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
